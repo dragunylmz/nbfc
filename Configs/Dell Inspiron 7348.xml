@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <FanControlConfigV2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <NotebookModel>Inspiron 7348</NotebookModel>
+  <NotebookModel>Dell Inspirion 7559</NotebookModel>
   <Author>lembi</Author>
   <EcPollInterval>1000</EcPollInterval>
   <ReadWriteWords>false</ReadWriteWords>
